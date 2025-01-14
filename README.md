@@ -8,7 +8,7 @@
 <!---CTO @LightXi Inc. / Open Source Enthusiast / A boy born in 2009 🙋‍♂️--->
 
 ### ⚒ Skills
-🐈 **Front End** / 🥗 **UI UX** /
+🐈 **Web Development** / 🥗 **UI UX** /
 
 <!---### 🔥 Achievement
 [![Chat Nio: #1 Repo Of The Day](https://trendshift.io/api/badge/repositories/6369)](https://trendshift.io/repositories/6369)
